@@ -1,4 +1,4 @@
-# Base Image PHP 7 with FPM Alpine
+# Base Image PHP 8.3 with FPM Alpine
 FROM php:8.3-fpm-alpine
 
 # ติดตั้ง extension mysqli สำหรับไว้เชื่อมต่อกับฐานข้อมูล mysql/mariadb
